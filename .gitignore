@@ -78,3 +78,4 @@ target/
 .env.secret
 *~
 .~*
+*.sqlite3
